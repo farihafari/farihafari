@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm fareeha jabeen</h1>
 <h3 align="center">A passionate full stack developer from pakistan</h3>
-<img align="right" alt="codegif" width ="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
+<img align="right" alt="codegif" width ="300" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
 - 🔭 I’m currently working on [technozeal](https://thetechnozeal.com/)
 
